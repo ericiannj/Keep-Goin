@@ -1,0 +1,27 @@
+[
+  {
+    "type": "body",
+    "description": "Extend one of your arms with your palm and pull your fingers.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Stretch your neck.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Squat 10 times!",
+    "amount": 70
+  },
+  {
+    "type": "eye",
+    "description": "Move your finger closer and away from your face, always looking at it.",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "Support your elbows on a flat surface and place your palms over your eyes, breathing slowly (1 minute).",
+    "amount": 150
+  }
+]
